@@ -1,0 +1,28 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  color: rgb(60, 255, 0);
+  background-color: black;
+  font-family: "Monoton", cursive;
+}
+
+.icons {
+  color: rgb(60, 255, 0);
+}
+
+.btn:focus {
+  box-shadow: none;
+}
+
+span {
+  font-size: 25px;
+}
+
+.display {
+  font-size: 60px;
+}
+
+.border {
+  padding: 30px;
+  color: rgb(60, 255, 0);
+}
